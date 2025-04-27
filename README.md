@@ -44,7 +44,7 @@ who loves building, breaking, and learning and always looking for new challenges
 ### 🌐 Connect with Me
 - 💬 Feel free to reach out for collaborations or just to say hi!
 - 📧 **[iamrh024@gmail.com](mailto:iamrh024@gmail.com)**
-- [![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram)](t.me/iamr1819)
+- [![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/iamr1819)
 
 ---
 
